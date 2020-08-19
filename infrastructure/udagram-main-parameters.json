@@ -1,0 +1,38 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Udagram"
+	},
+	{
+		"ParameterKey": "VpcCIDR",
+		"ParameterValue": "10.0.0.0/16"
+	},
+	{
+		"ParameterKey": "PublicSubnet1CIDR",
+		"ParameterValue": "10.0.0.0/24"
+	},
+	{
+		"ParameterKey": "PublicSubnet2CIDR",
+		"ParameterValue": "10.0.1.0/24"
+	},
+	{
+		"ParameterKey": "PrivateSubnet1CIDR",
+		"ParameterValue": "10.0.2.0/24"
+	},
+	{
+		"ParameterKey": "PrivateSubnet2CIDR",
+		"ParameterValue": "10.0.3.0/24"
+	},
+	{
+		"ParameterKey": "AMIIdParameter",
+		"ParameterValue": "ami-0a634ae95e11c6f91"
+	},
+	{
+		"ParameterKey": "BastionSSHCIDR",
+		"ParameterValue": "95.97.112.11/32"
+	},
+	{
+		"ParameterKey": "EC2KeyName",
+		"ParameterValue": "udevops-oregon"
+	}
+]
